@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nYwO6ecp4INh1XWsnDJAOEB6MznsYE9fgye6aQO65qr3jm8rJG7y8dTmiZcg51XevnSGO3kgW9ITYR34YgC1XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orxan477\\source\\repos\\Validations\\Validations\\Validations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orxan477\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Orxan477\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
